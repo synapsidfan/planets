@@ -1,5 +1,4 @@
 # Research questions
 
 - Can humans live on mars?
-
-Hopefully with enough time and effort, but let's not forget about Earth
+- What is an energy-efficient way to get to mars?
